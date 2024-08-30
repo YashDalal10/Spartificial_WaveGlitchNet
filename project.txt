@@ -1,0 +1,5 @@
+1. Load the gravity_spy_test notebook into Kaggle Notebooks or Google Colab
+2. Load the model
+3. Load the dataset containing glitch images in Gravitational Waves 
+4. Run the code
+5. The output will predict the glitch into one of the 22 glitch types
