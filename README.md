@@ -24,6 +24,8 @@ the link below. (The link directs you to Google Drive, it should be accessible t
 
 **The model file and test dataset can be found in the following link**
 
+Link to Kaggle Dataset - https://www.kaggle.com/datasets/tentotheminus9/gravity-spy-gravitational-waves/data
+
 Model file - https://drive.google.com/file/d/1dS-6_ZIfAReRlNra3K7Cjjg3HWcq1w3g/view?usp=drive_link
 
 Test Data - https://drive.google.com/file/d/1j8b6nC4PKgc0ZK9DXvxz5WRqmVb31YAZ/view?usp=drive_link
